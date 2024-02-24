@@ -11,7 +11,6 @@
         <div class="row card">
             <h2>data Peminjam</h2>
             <div class="col">
-            <a href="data/pinjam_buku.php" class="btn btn-dark">tambah peminjam</a>
                 <div class="table-responsive">
                     <table class="table my-3">
                         <thead class="table-dark">

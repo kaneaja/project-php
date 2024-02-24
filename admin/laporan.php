@@ -15,11 +15,11 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-md-4 mb-1">
-                    <div class="card bg-primary text-white h-100">
+                    <div class="card bg-success text-white h-100">
                         <div class="card-body py-5">
                             <h2>Laporan Data Buku</h2>
                         </div>
-                        <a href="buku.php" class="card-footer btn d-flex bg-dark ">
+                        <a href="laporan_db.php" class="card-footer btn d-flex bg-dark ">
                             View Details
                             <span class="ms-auto">
                             <i class="bi bi-chevron-right"></i>
@@ -28,11 +28,11 @@
                     </div>
                 </div>
                 <div class="col-md-4 mb-1">
-                    <div class="card text-dark h-100">
-                        <div class="card-body bg-warning py-5">
+                    <div class="card bg-success text-white h-100">
+                        <div class="card-body py-5">
                             <h2>Laporan Data Anggota</h2>
                         </div>
-                        <a href="anggota.php" class="card-footer btn d-flex bg-dark text-white">
+                        <a href="laporan_da.php" class="card-footer btn d-flex bg-dark text-white">
                             View Details
                             <span class="ms-auto">
                             <i class="bi bi-chevron-right"></i>
@@ -45,7 +45,7 @@
                         <div class="card-body py-5">
                             <h2>Laporan Peminjam</h2>
                         </div>
-                        <a href="peminjam.php" class="card-footer btn d-flex bg-dark">
+                        <a href="laporan_dp.php" class="card-footer btn d-flex bg-dark">
                             View Details
                             <span class="ms-auto">
                             <i class="bi bi-chevron-right"></i>

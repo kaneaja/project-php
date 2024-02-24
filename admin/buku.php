@@ -11,7 +11,6 @@
         <div class="row card">
             <h2>data buku</h2>
             <div class="coll">
-                <a href="data/tambah_buku.php" class="btn btn-dark">tambah buku</a>
                 <div class="table-responsive">
                     <table class="table my-3 aling-middle">
                         <thead class="table-dark">

@@ -33,8 +33,6 @@
                             <td><?php echo $d['Alamat']?></td>
                             <td>
                                 <a href="data/detail_anggota.php?UserID=<?php echo $d['UserID'];?>" class="btn btn-primary text-white">Detail</a>
-                                <a href="#" class="btn btn-success text-white">Ubah</a>
-                                <a href="#" class="btn btn-danger text-white">Hapus</a>
                             </td>
                         </tr>
                     </tbody>
