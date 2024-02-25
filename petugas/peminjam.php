@@ -35,8 +35,8 @@
                                 <td><?php echo $d['StatusPeminjaman'];?></td>
                                 <td>
                                     <a href="data/detail_peminjaman.php?idp=<?php echo $d['PeminjamanID'];?>" class="btn btn-primary text-white">Detail</a>
-                                    <a href="#" class="btn btn-success text-white">Ubah</a>
-                                    <a href="#" class="btn btn-danger text-white">Hapus</a>
+                                    <a href="data/edit_peminjam.php?idp=<?php echo $d['PeminjamanID'];?>" class="btn btn-success text-white">Ubah</a>
+                                    <a href="data/delete_peminjam.php?idp=<?php echo $d['PeminjamanID'];?>" class="btn btn-danger text-white">Hapus</a>
                                 </td>
                             </tr>
                         </tbody>

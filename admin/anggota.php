@@ -11,6 +11,7 @@
         <div class="row card">
             <h2>data anggota</h2>
             <div class="coll">
+            <a href="data/tambah_pts.php" class="btn btn-outline-success">tambah buku</a>
                 <table class="table my-3">
                     <thead class="table-dark">
                         <tr>
@@ -32,7 +33,7 @@
                             <td><?php echo $d['NamaLengkap']?></td>
                             <td><?php echo $d['Alamat']?></td>
                             <td>
-                                <a href="data/detail_anggota.php?UserID=<?php echo $d['UserID'];?>" class="btn btn-primary text-white">Detail</a>
+                                <a href="data/detail_anggota.php?UserID=<?php echo $d['UserID'];?>" class="btn btn-outline-dark">Detail</a>
                             </td>
                         </tr>
                     </tbody>

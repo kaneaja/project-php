@@ -33,8 +33,8 @@
                                 <td><?php echo $d['Judul'];?></td>
                                 <td>
                                     <a href="data/detail_buku.php?idbuku=<?php echo $d['idbuku'];?>" class="btn btn-primary text-white">Detail</a>
-                                    <a href="#" class="btn btn-success text-white">Ubah</a>
-                                    <a href="#" class="btn btn-danger text-white">Hapus</a>
+                                    <a href="data/edit_buku.php?idbuku=<?php echo $d['idbuku'];?>" class="btn btn-success text-white">Ubah</a>
+                                    <a href="data/delete_buku.php?idbuku=<?php echo $d['idbuku'];?>" class="btn btn-danger text-white">Hapus</a>
                                 </td>
                             </tr>
                         </tbody>

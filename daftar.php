@@ -43,8 +43,6 @@
                   <div class="form-group mt-2">
                     <select name="Level" class="form-select">
                       <option selected disabled>select level</option>
-                      <option value="admin">admin</option>
-                      <option value="petugas">petugas</option>
                       <option value="anggota">anggota</option>
                     </select>
                   </div>
