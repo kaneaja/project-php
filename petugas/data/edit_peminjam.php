@@ -65,6 +65,7 @@
                                         <option value="dipinjam">dipinjam</option>
                                         <option value="proses">proses</option>
                                         <option value="dikembalikan">dikembalikan</option>
+                                        <option value="telat">telat</option>
                                     </select>
                                 </div>
                                 <div class="row">
