@@ -50,12 +50,13 @@
                                     <option value="anggota">anggota</option>
                                     </select>
                                 </div>
-                                <div class="form mt-3">
-                                    <button type="submit" class="btn btn-primary">DAFTAR</button>
-                                </div>
-                                <div class="form mt-3">
-                                    <label>Sudah punya akun? Silahkan klik tombol berikut:</label>
-                                    <a href="index.php" class="btn btn-warning btn-sm">login</a>
+                                <div class="row">
+                                    <div class="form col mt-3">
+                                        <button type="submit" class="btn btn-outline-primary">DAFTAR</button>
+                                    </div>
+                                    <div class="form col mt-3">
+                                        <a href="../anggota.php" class="btn btn-outline-danger">KEMBALI</a>
+                                    </div>
                                 </div>
                             </form>
                         </div>

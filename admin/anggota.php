@@ -11,7 +11,7 @@
         <div class="row card">
             <h2>data anggota</h2>
             <div class="coll">
-            <a href="data/tambah_pts.php" class="btn btn-outline-success">tambah buku</a>
+            <a href="data/tambah_pts.php" class="btn btn-outline-success">tambah anggota</a>
                 <table class="table my-3">
                     <thead class="table-dark">
                         <tr>
