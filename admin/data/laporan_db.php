@@ -3,7 +3,7 @@
   session_start();
 
   if($_SESSION['Level']==""){
-    header("location:../index.php");
+    header("location:../../index.php");
   }
 ?>
 
