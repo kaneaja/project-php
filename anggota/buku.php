@@ -20,7 +20,7 @@
     ?>
     
         <div class="card p-2 g-col-6" style="width: 14rem;">
-        <img src="<?php echo"../petugas/assets/Sampul/$d[Foto]"?>" alt="">
+        <img src="<?php echo"../petugas/assets/Sampul/$d[Foto]"?>" alt="" width="200" height="290">
             <div class="card-body">
                 <h5 class="card-title"><?php echo $d['Judul']?></h5>
                 <h6>Tahun Terbit : <?php echo $d['TahunTerbit']?></h6>
